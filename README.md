@@ -63,7 +63,7 @@ Describe your pipeline briefly:
 
 ![Architecture](images/architecture.jpg)
 
-#IoU vs Dice Comparison Bar graph
+## IoU vs Dice Comparison Bar graph
 ![Comparison](images/iou_vs_dice_comparison.png)
 
 ## Sample Results
