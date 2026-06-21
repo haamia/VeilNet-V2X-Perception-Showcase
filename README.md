@@ -58,6 +58,19 @@ Describe your pipeline briefly:
 - Mean Dice/F1 Score: 97.65%
 - Pixel Accuracy: 99.09%
 
+
+  ## System Architecture
+
+![Architecture](images/architecture.jpg)
+
+#IoU vs Dice Comparison Bar graph
+![Comparison].(images/iou_vs_dice_comparison.png)
+
+## Sample Results
+
+![Results](images/result_19.png)
+
+
 ## Future Work
 
 - Real-time deployment
